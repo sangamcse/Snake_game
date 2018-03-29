@@ -1,6 +1,4 @@
 Thanks for visiting this Repo.
 
-# Snake Game
-============
-
-
+#Snake Game
+===========
