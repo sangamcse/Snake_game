@@ -4,4 +4,9 @@ Snake Game
 ==========
 
 ### Requirement:
-* Python2 only.
+* Python2
+
+
+## TODO
+
+[ ] Python3 compatible
