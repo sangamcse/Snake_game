@@ -9,4 +9,4 @@ Snake Game
 
 ## TODO
 
-[ ] Python3 compatible
+[] Python3 compatible
