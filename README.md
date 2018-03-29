@@ -1,4 +1,7 @@
 Thanks for visiting this Repo.
 
-#Snake Game
-===========
+Snake Game
+==========
+
+### Requirement:
+* Python2 only.
